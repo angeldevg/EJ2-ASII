@@ -1,5 +1,0 @@
-public interface ILeer{
-	
- 	public void leerarchivo(Strings[]);    
-
-} 
